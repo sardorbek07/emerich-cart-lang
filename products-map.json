@@ -1,0 +1,2468 @@
+{
+  "101": {
+    "ru": {
+      "name": "Мусорное ведро 101",
+      "uid": "632378279284"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 101",
+      "uid": "696568523904"
+    }
+  },
+  "202": {
+    "ru": {
+      "name": "Мусорное ведро 202",
+      "uid": "717661848834"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 202",
+      "uid": "105540771364"
+    }
+  },
+  "204": {
+    "ru": {
+      "name": "Салфетница 204",
+      "uid": "880180030434"
+    },
+    "uz": {
+      "name": "Salfetka ushlagichi 204",
+      "uid": "140103295754"
+    }
+  },
+  "218": {
+    "ru": {
+      "name": "Унитаз литой со смывом Tornado 218",
+      "uid": "431669536894"
+    },
+    "uz": {
+      "name": "Tornado yuvish tizimli yaxlit unitaz 218",
+      "uid": "407880209874"
+    }
+  },
+  "219": {
+    "ru": {
+      "name": "Унитаз литой со смывом Tornado 219",
+      "uid": "252934515964"
+    },
+    "uz": {
+      "name": "Tornado yuvish tizimli yaxlit unitaz 219",
+      "uid": "446798077284"
+    }
+  },
+  "223": {
+    "ru": {
+      "name": "Унитаз литой со смывом Rimless 223",
+      "uid": "660514489212"
+    },
+    "uz": {
+      "name": "Rimless yuvish tizimli yaxlit unitaz 223",
+      "uid": "843685764154"
+    }
+  },
+  "224": {
+    "ru": {
+      "name": "Унитаз литой со смывом Rimless 224",
+      "uid": "478084228292"
+    },
+    "uz": {
+      "name": "Rimless yuvish tizimli yaxlit unitaz 224",
+      "uid": "298585380094"
+    }
+  },
+  "228": {
+    "ru": {
+      "name": "Инсталляция для унитаза 228",
+      "uid": "506372670792"
+    },
+    "uz": {
+      "name": "Unitaz uchun o‘rnatish tizimi 228",
+      "uid": "123121854664"
+    }
+  },
+  "231": {
+    "ru": {
+      "name": "Раковина с пьедесталом Emerich 231",
+      "uid": "948240129464"
+    },
+    "uz": {
+      "name": "Rakovina piyedestal bilan Emerich 231",
+      "uid": "298956197824"
+    }
+  },
+  "232": {
+    "ru": {
+      "name": "Раковина с пьедесталом Emerich 232",
+      "uid": "299473310574"
+    },
+    "uz": {
+      "name": "Rakovina piyedestal bilan Emerich 232",
+      "uid": "421394846794"
+    }
+  },
+  "1014": {
+    "ru": {
+      "name": "Смеситель для раковины Venice 1014",
+      "uid": "344914975822"
+    },
+    "uz": {
+      "name": "Venice 1014 rakovina uchun kran",
+      "uid": "938860268694"
+    }
+  },
+  "1026": {
+    "ru": {
+      "name": "Смеситель для раковины Milan 1026",
+      "uid": "190070870312"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Milan 1026",
+      "uid": "457827944294"
+    }
+  },
+  "1080": {
+    "ru": {
+      "name": "Смеситель для раковины Verona 1080",
+      "uid": "784101572102"
+    },
+    "uz": {
+      "name": "Rakovina uchun kran Verona 1080",
+      "uid": "619444494334"
+    }
+  },
+  "1092": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092",
+      "uid": "183200310262"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Florence 1092",
+      "uid": "550972060324"
+    }
+  },
+  "1114": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Venice 1114",
+      "uid": "694980854622"
+    },
+    "uz": {
+      "name": "Baland rakovina krani Venice 1114",
+      "uid": "764514266214"
+    }
+  },
+  "1126": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Milan 1126",
+      "uid": "406195906402"
+    },
+    "uz": {
+      "name": "Rakovina uchun baland smesitel Milan 1126",
+      "uid": "974461250464"
+    }
+  },
+  "1906": {
+    "ru": {
+      "name": "Раковина с пьедесталом Emerich 1906",
+      "uid": "176445285394"
+    },
+    "uz": {
+      "name": "Piyedestalli rakovina Emerich 1906",
+      "uid": "355788092484"
+    }
+  },
+  "2026": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2026",
+      "uid": "623172038172"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Milan 2026",
+      "uid": "926975874504"
+    }
+  },
+  "2080": {
+    "ru": {
+      "name": "Гигиенический душ Verona 2080",
+      "uid": "787473541312"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Verona 2080",
+      "uid": "526883874134"
+    }
+  },
+  "2426": {
+    "ru": {
+      "name": "Душевая система Milan 2426",
+      "uid": "520767530462"
+    },
+    "uz": {
+      "name": "Milan 2426 dush tizimi",
+      "uid": "692685909414"
+    }
+  },
+  "2433": {
+    "ru": {
+      "name": "Душевая система Verona 2433",
+      "uid": "301637951072"
+    },
+    "uz": {
+      "name": "Dush tizimi Verona 2433",
+      "uid": "976950666044"
+    }
+  },
+  "2492": {
+    "ru": {
+      "name": "Душевая система Florence 2492",
+      "uid": "115459898142"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492",
+      "uid": "763082334764"
+    }
+  },
+  "3148": {
+    "ru": {
+      "name": "Полотенцадержатель двойной Milan 3148",
+      "uid": "395910990144"
+    },
+    "uz": {
+      "name": "Ikki qavatli sochiq ushlagichi Milan 3148",
+      "uid": "757434267464"
+    }
+  },
+  "3151": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Milan 3151",
+      "uid": "236737123684"
+    },
+    "uz": {
+      "name": "Tualet qog‘ozi ushlagichi Milan 3151",
+      "uid": "487437378804"
+    }
+  },
+  "3154": {
+    "ru": {
+      "name": "Крючок Milan 3154",
+      "uid": "420993052274"
+    },
+    "uz": {
+      "name": "Ilgak Milan 3154",
+      "uid": "171764575954"
+    }
+  },
+  "3155": {
+    "ru": {
+      "name": "Стакан держатель Milan 3155",
+      "uid": "200104173404"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Milan 3155",
+      "uid": "454330345674"
+    }
+  },
+  "3156": {
+    "ru": {
+      "name": "Мылница Milan 3156",
+      "uid": "225773467154"
+    },
+    "uz": {
+      "name": "Sovun qoʻygich Milan 3156",
+      "uid": "773688724414"
+    }
+  },
+  "3160": {
+    "ru": {
+      "name": "Полотенца держатель Milan 3160",
+      "uid": "834771812074"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Milan 3160",
+      "uid": "619558713724"
+    }
+  },
+  "3851": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Venice 3851",
+      "uid": "115669879564"
+    },
+    "uz": {
+      "name": "Venice 3851 tualet qog‘ozi ushlagichi",
+      "uid": "359965101524"
+    }
+  },
+  "3854": {
+    "ru": {
+      "name": "Крючок Venice 3854",
+      "uid": "840851784874"
+    },
+    "uz": {
+      "name": "Ilgak Venice 3854",
+      "uid": "804934488804"
+    }
+  },
+  "3855": {
+    "ru": {
+      "name": "Стакан держатель Venice 3855",
+      "uid": "520168750684"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Venice 3855",
+      "uid": "125884425594"
+    }
+  },
+  "3856": {
+    "ru": {
+      "name": "Мыльница Venice 3856",
+      "uid": "227004100644"
+    },
+    "uz": {
+      "name": "Sovun qo‘ygich Venice 3856",
+      "uid": "873662535364"
+    }
+  },
+  "3860": {
+    "ru": {
+      "name": "Полотенца держатель Venice 3860",
+      "uid": "600624772104"
+    },
+    "uz": {
+      "name": "Venice 3860 sochiq ushlagichi",
+      "uid": "258047629784"
+    }
+  },
+  "4698": {
+    "ru": {
+      "name": "Смеситель для кухни Asti 4698",
+      "uid": "752158723382"
+    },
+    "uz": {
+      "name": "Oshxona krani Asti 4698",
+      "uid": "319251872554"
+    }
+  },
+  "5014": {
+    "ru": {
+      "name": "Смеситель для биде Venice 5014",
+      "uid": "958275331082"
+    },
+    "uz": {
+      "name": "Bide uchun kran Venice 5014",
+      "uid": "768251419984"
+    }
+  },
+  "5092": {
+    "ru": {
+      "name": "Смеситель для биде Florence 5092",
+      "uid": "877600069112"
+    },
+    "uz": {
+      "name": "Bide uchun smesitel Florence 5092",
+      "uid": "391585400544"
+    }
+  },
+  "5292": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292",
+      "uid": "653508277422"
+    },
+    "uz": {
+      "name": "Florence 5292 gigiyenik dush",
+      "uid": "138385462934"
+    }
+  },
+  "8402": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 8402",
+      "uid": "165148309214"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 84023",
+      "uid": "715176907384"
+    }
+  },
+  "9114": {
+    "ru": {
+      "name": "Душевая система Venice 9114",
+      "uid": "371818953652"
+    },
+    "uz": {
+      "name": "Dush tizimi Venice 9114",
+      "uid": "152122724714"
+    }
+  },
+  "9114D": {
+    "ru": {
+      "name": "Душевая система Venice 9114D",
+      "uid": "616623414932"
+    },
+    "uz": {
+      "name": "Dush tizimi Venice 9114D",
+      "uid": "422581926984"
+    }
+  },
+  "4698B": {
+    "ru": {
+      "name": "Смеситель для кухни Asti 4698B",
+      "uid": "946607054632"
+    },
+    "uz": {
+      "name": "Oshxona uchun kran Asti 4698B",
+      "uid": "241107258204"
+    }
+  },
+  "4698Y": {
+    "ru": {
+      "name": "Смеситель для кухни Asti 4698Y",
+      "uid": "789695311432"
+    },
+    "uz": {
+      "name": "Oshxona uchun kran Asti 4698Y",
+      "uid": "169447183204"
+    }
+  },
+  "1080B": {
+    "ru": {
+      "name": "Смеситель для раковины Verona 1080B",
+      "uid": "842731690332"
+    },
+    "uz": {
+      "name": "Rakovina uchun kran Verona 1080B",
+      "uid": "900051464274"
+    }
+  },
+  "5014B": {
+    "ru": {
+      "name": "Смеситель для биде Venice 5014B",
+      "uid": "835733886132"
+    },
+    "uz": {
+      "name": "Venice 5014B bide uchun kran",
+      "uid": "270605153834"
+    }
+  },
+  "1092B": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092B",
+      "uid": "914136208882"
+    },
+    "uz": {
+      "name": "Rakovina uchun kran Florence 1092B",
+      "uid": "468884476184"
+    }
+  },
+  "1092SR": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092SR",
+      "uid": "144153780752"
+    },
+    "uz": {
+      "name": "Rakovina uchun kran Florence 1092SR",
+      "uid": "798484563844"
+    }
+  },
+  "1080Y": {
+    "ru": {
+      "name": "Смеситель для раковины Verona 1080Y",
+      "uid": "979867436752"
+    },
+    "uz": {
+      "name": "Rakovina uchun kran Verona 1080Y",
+      "uid": "713784053234"
+    }
+  },
+  "0016": {
+    "ru": {
+      "name": "Биде 0016ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "uid": "291825602442"
+    },
+    "uz": {
+      "name": "Bide 0016",
+      "uid": "283783839974"
+    }
+  },
+  "0013": {
+    "ru": {
+      "name": "Биде 0013ㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "uid": "318839710102"
+    },
+    "uz": {
+      "name": "Bide 0013",
+      "uid": "656354281584"
+    }
+  },
+  "057W": {
+    "ru": {
+      "name": "Подвесной унитаз со смывом Tornado 057W",
+      "uid": "693624283312"
+    },
+    "uz": {
+      "name": "Tornado yuvish tizimli osma unitaz 057W",
+      "uid": "300088063684"
+    }
+  },
+  "071W": {
+    "ru": {
+      "name": "Подвесной унитаз со смывом Tornado 071W",
+      "uid": "507044823172"
+    },
+    "uz": {
+      "name": "Tornado yuvish tizimli osma unitaz 071W",
+      "uid": "645689841204"
+    }
+  },
+  "1014B": {
+    "ru": {
+      "name": "Смеситель для раковины Venice 1014B",
+      "uid": "963552974592"
+    },
+    "uz": {
+      "name": "Venice 1014B rakovina uchun kran",
+      "uid": "846195201734"
+    }
+  },
+  "2026G": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2026G",
+      "uid": "774199482272"
+    },
+    "uz": {
+      "name": "Milan 2026G gigiyenik dush",
+      "uid": "614571786204"
+    }
+  },
+  "2426Y": {
+    "ru": {
+      "name": "Душевая система Milan 2426Y",
+      "uid": "735629913922"
+    },
+    "uz": {
+      "name": "Milan 2426Y dush tizimi",
+      "uid": "577984908904"
+    }
+  },
+  "2426G": {
+    "ru": {
+      "name": "Душевая система Milan 2426G",
+      "uid": "704246450132"
+    },
+    "uz": {
+      "name": "Milan 2426G dush tizimi",
+      "uid": "350350724724"
+    }
+  },
+  "2426B": {
+    "ru": {
+      "name": "Душевая система Milan 2426B",
+      "uid": "917028424362"
+    },
+    "uz": {
+      "name": "Milan 2426B dush tizimi",
+      "uid": "935334011194"
+    }
+  },
+  "5014G": {
+    "ru": {
+      "name": "Смеситель для биде Venice 5014G",
+      "uid": "158193068112"
+    },
+    "uz": {
+      "name": "Venice 5014G bide uchun kran",
+      "uid": "610375379024"
+    }
+  },
+  "5014D": {
+    "ru": {
+      "name": "Смеситель для биде Venice 5014D",
+      "uid": "859977729072"
+    },
+    "uz": {
+      "name": "Venice 5014D bide uchun kran",
+      "uid": "394280820984"
+    }
+  },
+  "5014Y": {
+    "ru": {
+      "name": "Смеситель для биде Venice 5014Y",
+      "uid": "773516335122"
+    },
+    "uz": {
+      "name": "Venice 5014Y bide uchun kran",
+      "uid": "182475055634"
+    }
+  },
+  "2026B": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2026B",
+      "uid": "437233121822"
+    },
+    "uz": {
+      "name": "Milan 2026B gigiyenik dush",
+      "uid": "179624965034"
+    }
+  },
+  "2026D": {
+    "ru": {
+      "name": "Гигиенический душ MIlan 2026D",
+      "uid": "967887540952"
+    },
+    "uz": {
+      "name": "Milan 2026D gigiyenik dush",
+      "uid": "720472596404"
+    }
+  },
+  "2026Y": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2026Y",
+      "uid": "660047771692"
+    },
+    "uz": {
+      "name": "Milan 2026Y gigiyenik dush",
+      "uid": "806270511834"
+    }
+  },
+  "2492-4": {
+    "ru": {
+      "name": "Гигиенический душ Florence 2492-4",
+      "uid": "277549608842"
+    },
+    "uz": {
+      "name": "Florence 2492-4 gigiyenik dush",
+      "uid": "833620634624"
+    }
+  },
+  "2492B-4": {
+    "ru": {
+      "name": "Гигиенический душ Florence 2492B-4",
+      "uid": "383025060242"
+    },
+    "uz": {
+      "name": "Florence 2492B-4 gigiyenik dush",
+      "uid": "336102954464"
+    }
+  },
+  "2492-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492-5",
+      "uid": "473758824352"
+    },
+    "uz": {
+      "name": "Florence 2492-5 rakovina uchun kran",
+      "uid": "576930764694"
+    }
+  },
+  "2492D-4": {
+    "ru": {
+      "name": "Гигиенический душ Florence 2492D-4",
+      "uid": "758687998652"
+    },
+    "uz": {
+      "name": "Florence 2492D-4 gigiyenik dush",
+      "uid": "687550014234"
+    }
+  },
+  "2492Y-4": {
+    "ru": {
+      "name": "Гигиенический душ Florence 2492Y-4",
+      "uid": "232001955032"
+    },
+    "uz": {
+      "name": "Florence 2492Y-4 gigiyenik dush",
+      "uid": "426912002764"
+    }
+  },
+  "2492B-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492B-5",
+      "uid": "284560876522"
+    },
+    "uz": {
+      "name": "Florence 2492B-5 rakovina uchun kran",
+      "uid": "886248986744"
+    }
+  },
+  "2492D-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492D-5",
+      "uid": "191307822262"
+    },
+    "uz": {
+      "name": "Florence 2492D-5 rakovina uchun kran",
+      "uid": "444733092964"
+    }
+  },
+  "2492G-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492G-5",
+      "uid": "614114419772"
+    },
+    "uz": {
+      "name": "Florence 2492G-5 rakovina uchun kran",
+      "uid": "189108562084"
+    }
+  },
+  "2492Y-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492Y-5",
+      "uid": "774111322252"
+    },
+    "uz": {
+      "name": "Florence 2492Y-5 rakovina uchun kran",
+      "uid": "166226260144"
+    }
+  },
+  "5292B": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292B",
+      "uid": "933804218002"
+    },
+    "uz": {
+      "name": "Florence 5292B gigiyenik dush",
+      "uid": "169511304974"
+    }
+  },
+  "5292D": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292D",
+      "uid": "567593301632"
+    },
+    "uz": {
+      "name": "Florence 5292D gigiyenik dush",
+      "uid": "995547350864"
+    }
+  },
+  "5292G": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292G",
+      "uid": "968670294972"
+    },
+    "uz": {
+      "name": "Florence 5292G gigiyenik dush",
+      "uid": "338792241364"
+    }
+  },
+  "5292Y": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292Y",
+      "uid": "442402156122"
+    },
+    "uz": {
+      "name": "Florence 5292Y gigiyenik dush",
+      "uid": "730176783884"
+    }
+  },
+  "2080B": {
+    "ru": {
+      "name": "Гигиенический душ Verona 2080B",
+      "uid": "430850010932"
+    },
+    "uz": {
+      "name": "Verona 2080B gigiyenik dush",
+      "uid": "442949345514"
+    }
+  },
+  "2080G": {
+    "ru": {
+      "name": "Гигиенический душ Verona 2080G",
+      "uid": "732194289892"
+    },
+    "uz": {
+      "name": "Verona 2080G gigiyenik dush",
+      "uid": "650650067684"
+    }
+  },
+  "2080Y": {
+    "ru": {
+      "name": "Гигиенический душ Verona 2080Y",
+      "uid": "846053689622"
+    },
+    "uz": {
+      "name": "Verona 2080Y gigiyenik dush",
+      "uid": "698139976344"
+    }
+  },
+  "2505Y-4": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2505Y-4",
+      "uid": "666660068242"
+    },
+    "uz": {
+      "name": "Milan 2505Y-4 gigiyenik dush",
+      "uid": "421639337534"
+    }
+  },
+  "2505B-4": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2505B-4",
+      "uid": "193565232782"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Milan 2505B-4",
+      "uid": "101514730564"
+    }
+  },
+  "2505D-4": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2505D-4",
+      "uid": "511104862172"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Milan 2505D-4",
+      "uid": "933194304084"
+    }
+  },
+  "2505-4": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2505-4",
+      "uid": "361966087532"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Milan 2505-4",
+      "uid": "108355967824"
+    }
+  },
+  "2492SR-4": {
+    "ru": {
+      "name": "Гигиенический душ Milan 2492SR-4",
+      "uid": "510690855852"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Milan 2492SR-4",
+      "uid": "819844080524"
+    }
+  },
+  "1092D": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092D",
+      "uid": "701047403312"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Florence 1092D",
+      "uid": "261916274914"
+    }
+  },
+  "1092G": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092G",
+      "uid": "737240263262"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Florence 1092G",
+      "uid": "502684921144"
+    }
+  },
+  "1092Y": {
+    "ru": {
+      "name": "Смеситель для раковины Florence 1092Y",
+      "uid": "311073469252"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Florence 1092Y",
+      "uid": "460089016784"
+    }
+  },
+  "5092D": {
+    "ru": {
+      "name": "Смеситель для биде Florence 5092D",
+      "uid": "578229784882"
+    },
+    "uz": {
+      "name": "Bide uchun smesitel Florence 5092D",
+      "uid": "127769790394"
+    }
+  },
+  "5092G": {
+    "ru": {
+      "name": "Смеситель для биде Florence 5092G",
+      "uid": "169289827412"
+    },
+    "uz": {
+      "name": "Bide uchun smesitel Florence 5092G",
+      "uid": "535205534004"
+    }
+  },
+  "5092Y": {
+    "ru": {
+      "name": "Смеситель для биде Florence 5092Y",
+      "uid": "712098578702"
+    },
+    "uz": {
+      "name": "Bide uchun smesitel Florence 5092Y",
+      "uid": "507338385054"
+    }
+  },
+  "2492B": {
+    "ru": {
+      "name": "Душевая система Florence 2492B",
+      "uid": "474132541522"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492B",
+      "uid": "420176925244"
+    }
+  },
+  "2492D": {
+    "ru": {
+      "name": "Душевая система Florence 2492D",
+      "uid": "563153267572"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492D",
+      "uid": "477353405684"
+    }
+  },
+  "2492G": {
+    "ru": {
+      "name": "Душевая система Florence 2492G",
+      "uid": "556798490352"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492G",
+      "uid": "359961876634"
+    }
+  },
+  "2492Y": {
+    "ru": {
+      "name": "Душевая система Florence 2492Y",
+      "uid": "782915685812"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492Y",
+      "uid": "287101465304"
+    }
+  },
+  "2492-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492-2",
+      "uid": "787871800242"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492-2",
+      "uid": "847846641574"
+    }
+  },
+  "2492B-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492B-2",
+      "uid": "839880430162"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492B-2",
+      "uid": "346897703224"
+    }
+  },
+  "2492G-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492G-2",
+      "uid": "836618503012"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492G-2",
+      "uid": "685788734084"
+    }
+  },
+  "2492Y-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492Y-2",
+      "uid": "764339955052"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492Y-2",
+      "uid": "349112021174"
+    }
+  },
+  "2492G-4": {
+    "ru": {
+      "name": "Гигиенический душ Florence 2492G-4",
+      "uid": "942283535972"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Florence 2492G-4",
+      "uid": "746735158684"
+    }
+  },
+  "2492D-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492D-2",
+      "uid": "182474151902"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492D-2",
+      "uid": "667429996524"
+    }
+  },
+  "1026B": {
+    "ru": {
+      "name": "Смеситель для раковины Milan 1026B",
+      "uid": "646993162452"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Milan 1026B",
+      "uid": "482294402144"
+    }
+  },
+  "1026D": {
+    "ru": {
+      "name": "Смеситель для раковины Milan 1026D",
+      "uid": "156337193172"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Milan 1026D",
+      "uid": "446392150714"
+    }
+  },
+  "1026G": {
+    "ru": {
+      "name": "Смеситель для раковины Milan 1026G",
+      "uid": "569059369182"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Milan 1026G",
+      "uid": "750752789954"
+    }
+  },
+  "1026Y": {
+    "ru": {
+      "name": "Смеситель для раковины Milan 1026Y",
+      "uid": "661644715042"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Milan 1026Y",
+      "uid": "874849923514"
+    }
+  },
+  "1126B": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Milan 1126B",
+      "uid": "739548195462"
+    },
+    "uz": {
+      "name": "Rakovina uchun baland smesitel Milan 1126B",
+      "uid": "655276590634"
+    }
+  },
+  "1126D": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Milan 1126D",
+      "uid": "409051892742"
+    },
+    "uz": {
+      "name": "Rakovina uchun baland smesitel Milan 1126D",
+      "uid": "742045579274"
+    }
+  },
+  "1126G": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Milan 1126G",
+      "uid": "434006105502"
+    },
+    "uz": {
+      "name": "Rakovina uchun baland smesitel Milan 1126G",
+      "uid": "810251461124"
+    }
+  },
+  "2426D": {
+    "ru": {
+      "name": "Душевая система Milan 2426D",
+      "uid": "372801706232"
+    },
+    "uz": {
+      "name": "Dush tizimi Milan 2426D",
+      "uid": "104688921374"
+    }
+  },
+  "1080G": {
+    "ru": {
+      "name": "Смеситель для раковины Verona 1080G",
+      "uid": "630583012522"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Verona 1080G",
+      "uid": "139979639314"
+    }
+  },
+  "1080D": {
+    "ru": {
+      "name": "Смеситель для раковины Verona 1080D",
+      "uid": "987764529542"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Verona 1080D",
+      "uid": "497043043884"
+    }
+  },
+  "5214G-7": {
+    "ru": {
+      "name": "Гигиенический душ Venice 5214G-7",
+      "uid": "871673992772"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Venice 5214G-7",
+      "uid": "237743255414"
+    }
+  },
+  "2433B": {
+    "ru": {
+      "name": "Душевая система Verona 2433B",
+      "uid": "960192477562"
+    },
+    "uz": {
+      "name": "Dush tizimi Verona 2433B",
+      "uid": "814032554484"
+    }
+  },
+  "2433D": {
+    "ru": {
+      "name": "Душевая система Verona 2433D",
+      "uid": "523694468812"
+    },
+    "uz": {
+      "name": "Dush tizimi Verona 2433D",
+      "uid": "799377595504"
+    }
+  },
+  "2433G": {
+    "ru": {
+      "name": "Душевая система Verona 2433G",
+      "uid": "220076822042"
+    },
+    "uz": {
+      "name": "Dush tizimi Verona 2433G",
+      "uid": "129498482474"
+    }
+  },
+  "2480Y": {
+    "ru": {
+      "name": "Душевая система Verona 2433Y",
+      "uid": "111393082792"
+    },
+    "uz": {
+      "name": "Dush tizimi Verona 2433Y",
+      "uid": "822556300584"
+    }
+  },
+  "1014D": {
+    "ru": {
+      "name": "Смеситель для раковины Venice 1014D",
+      "uid": "202361121522"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Venice 1014D",
+      "uid": "363040207644"
+    }
+  },
+  "1014G": {
+    "ru": {
+      "name": "Смеситель для раковины Venice 1014G",
+      "uid": "643734466742"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Venice 1014G",
+      "uid": "240881028064"
+    }
+  },
+  "1014Y": {
+    "ru": {
+      "name": "Смеситель для раковины Venice 1014Y",
+      "uid": "120285266232"
+    },
+    "uz": {
+      "name": "Rakovina uchun smesitel Venice 1014Y",
+      "uid": "792894052574"
+    }
+  },
+  "5214-7": {
+    "ru": {
+      "name": "Гигиенический душ Venice 5214-7",
+      "uid": "418783982062"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Venice 5214-7",
+      "uid": "430252714824"
+    }
+  },
+  "5214B-7": {
+    "ru": {
+      "name": "Гигиенический душ Venice 5214B-7",
+      "uid": "540588880272"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Venice 5214B-7",
+      "uid": "939609141204"
+    }
+  },
+  "5214Y-7": {
+    "ru": {
+      "name": "Гигиенический душ Venice 5214Y-7",
+      "uid": "642524984382"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Venice 5214Y-7",
+      "uid": "107932715454"
+    }
+  },
+  "5214D-7": {
+    "ru": {
+      "name": "Гигиенический душ Venice 5214D-7",
+      "uid": "656111062252"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Venice 5214D-73",
+      "uid": "384415138324"
+    }
+  },
+  "1114B": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Venice 1114B",
+      "uid": "133129206002"
+    },
+    "uz": {
+      "name": "Baland rakovina krani Venice 1114B",
+      "uid": "634770936224"
+    }
+  },
+  "1114D": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Venice 1114D",
+      "uid": "287372918262"
+    },
+    "uz": {
+      "name": "Baland rakovina krani Venice 1114D",
+      "uid": "928494731914"
+    }
+  },
+  "1114G": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Venice 1114G",
+      "uid": "339852730492"
+    },
+    "uz": {
+      "name": "Baland rakovina krani Venice 1114G",
+      "uid": "638262387554"
+    }
+  },
+  "1114Y": {
+    "ru": {
+      "name": "Высокий смеситель для раковины Venice 1114Y",
+      "uid": "857446103932"
+    },
+    "uz": {
+      "name": "Baland rakovina krani Venice 1114Y",
+      "uid": "463113178374"
+    }
+  },
+  "9114B": {
+    "ru": {
+      "name": "Душевая система Venice 9114B",
+      "uid": "377222413402"
+    },
+    "uz": {
+      "name": "Dush tizimi Venice 9114B",
+      "uid": "751803875484"
+    }
+  },
+  "9114G": {
+    "ru": {
+      "name": "Душевая система Venice 9114G",
+      "uid": "929749490862"
+    },
+    "uz": {
+      "name": "Dush tizimi Venice 9114G",
+      "uid": "353035048144"
+    }
+  },
+  "9114Y": {
+    "ru": {
+      "name": "Душевая система Venice 9114Y",
+      "uid": "360110275242"
+    },
+    "uz": {
+      "name": "Dush tizimi Venice 9114Y3",
+      "uid": "131833353994"
+    }
+  },
+  "2492SR": {
+    "ru": {
+      "name": "Душевая система Florence 2492SR",
+      "uid": "628200058282"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492SR",
+      "uid": "169582231364"
+    }
+  },
+  "4855B-2": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4855B-2",
+      "uid": "659222920792"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4855B-2",
+      "uid": "362163042084"
+    }
+  },
+  "4855D-12": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4855D-12",
+      "uid": "147671517642"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4855D-12",
+      "uid": "798335254974"
+    }
+  },
+  "4855Y-2": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4855Y-2",
+      "uid": "381793634982"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4855Y-2",
+      "uid": "363140866284"
+    }
+  },
+  "4397Y-2": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4397Y-2",
+      "uid": "880345608972"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4397Y-2",
+      "uid": "255998709264"
+    }
+  },
+  "4397D-12": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4397D-12",
+      "uid": "822740939482"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4397D-12",
+      "uid": "663978178194"
+    }
+  },
+  "4397B-2": {
+    "ru": {
+      "name": "Смеситель для кухни Milan 4397B-2",
+      "uid": "323221636322"
+    },
+    "uz": {
+      "name": "Oshxona krani Milan 4397B-2",
+      "uid": "508523008214"
+    }
+  },
+  "4698D": {
+    "ru": {
+      "name": "Смеситель для кухни Asti 4698D",
+      "uid": "817964803702"
+    },
+    "uz": {
+      "name": "Oshxona krani Asti 4698D",
+      "uid": "882678212444"
+    }
+  },
+  "1126Y": {
+    "uz": {
+      "name": "Baland rakovina krani Milan 1126Y",
+      "uid": "668694934772"
+    },
+    "ru": {
+      "name": "Высокий смеситель для раковины Milan 1126Y",
+      "uid": "561975559934"
+    }
+  },
+  "2080D": {
+    "ru": {
+      "name": "Гигиенический душ Verona 2080D",
+      "uid": "896786045242"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Verona 2080D",
+      "uid": "505925032294"
+    }
+  },
+  "5092B": {
+    "ru": {
+      "name": "Смеситель для биде Florence 5092B",
+      "uid": "710410954044"
+    },
+    "uz": {
+      "name": "Bide krani Florence 5092B",
+      "uid": "348114859894"
+    }
+  },
+  "5292SR": {
+    "ru": {
+      "name": "Гигиенический душ Florence 5292SR",
+      "uid": "621190424134"
+    },
+    "uz": {
+      "name": "Gigiyenik dush Florence 5292SR",
+      "uid": "780531579394"
+    }
+  },
+  "2492SR-5": {
+    "ru": {
+      "name": "Смеситель для раковин Florence 2492SR-5",
+      "uid": "814794309464"
+    },
+    "uz": {
+      "name": "Rakovina krani Florence 2492SR-5",
+      "uid": "608202911504"
+    }
+  },
+  "2505-5": {
+    "ru": {
+      "name": "Смеситель для раковин Milan 2505-5",
+      "uid": "830628135464"
+    },
+    "uz": {
+      "name": "Rakovina krani Milan 2505-5",
+      "uid": "972739514844"
+    }
+  },
+  "2505B-5": {
+    "ru": {
+      "name": "Смеситель для раковин Milan 2505B-5",
+      "uid": "600547223194"
+    },
+    "uz": {
+      "name": "Rakovina krani Milan 2505B-5",
+      "uid": "381120120214"
+    }
+  },
+  "2505Y-5": {
+    "ru": {
+      "name": "Смеситель для раковин Milan 2505Y-5",
+      "uid": "745520529344"
+    },
+    "uz": {
+      "name": "Rakovina krani Milan 2505Y-5",
+      "uid": "508998270424"
+    }
+  },
+  "2505D-5": {
+    "ru": {
+      "name": "Смеситель для раковин Milan 2505D-5",
+      "uid": "973882632184"
+    },
+    "uz": {
+      "name": "Rakovina krani Milan 2505D-5",
+      "uid": "442798101594"
+    }
+  },
+  "2492SR-2": {
+    "ru": {
+      "name": "Душевая система Florence 2492SR-2",
+      "uid": "747844362254"
+    },
+    "uz": {
+      "name": "Dush tizimi Florence 2492SR-2",
+      "uid": "105567587604"
+    }
+  },
+  "2505-2": {
+    "ru": {
+      "name": "Душевая система Milan 2505-2",
+      "uid": "482713508244"
+    },
+    "uz": {
+      "name": "Dush tizimi Milan 2505-2",
+      "uid": "905066403794"
+    }
+  },
+  "2505B-2": {
+    "ru": {
+      "name": "Душевая система Milan 2505B-2",
+      "uid": "592683565444"
+    },
+    "uz": {
+      "name": "Dush tizimi Milan 2505B-2",
+      "uid": "224521081764"
+    }
+  },
+  "2505Y-2": {
+    "ru": {
+      "name": "Душевая система Milan 2505Y-2",
+      "uid": "153717145054"
+    },
+    "uz": {
+      "name": "Dush tizimi Milan 2505Y-2",
+      "uid": "669236050724"
+    }
+  },
+  "2505D-2": {
+    "ru": {
+      "name": "Душевая система Milan 2505D-2",
+      "uid": "997685771554"
+    },
+    "uz": {
+      "name": "Dush tizimi Milan 2505D-2",
+      "uid": "605120914474"
+    }
+  },
+  "204D": {
+    "ru": {
+      "name": "Салфетница 204D",
+      "uid": "422319945784"
+    },
+    "uz": {
+      "name": "Salfetka ushlagichi 204D",
+      "uid": "623919168074"
+    }
+  },
+  "204Y": {
+    "ru": {
+      "name": "Салфетница 204Y",
+      "uid": "292661718464"
+    },
+    "uz": {
+      "name": "Salfetka ushlagichi 204Y",
+      "uid": "906260982774"
+    }
+  },
+  "204B": {
+    "uz": {
+      "name": "Salfetka ushlagichi 204B",
+      "uid": "409022164114"
+    },
+    "ru": {
+      "name": "Салфетница 204B",
+      "uid": "118056105734"
+    }
+  },
+  "88724-1X": {
+    "ru": {
+      "name": "Полка для полотенец 88724-1X",
+      "uid": "784839672254"
+    },
+    "uz": {
+      "name": "Sochiq uchun javon 88724-1X",
+      "uid": "476781871314"
+    }
+  },
+  "88724-1C": {
+    "ru": {
+      "name": "Полка для полотенец 88724-1C",
+      "uid": "966449783704"
+    },
+    "uz": {
+      "name": "Sochiq uchun javon 88724-1C",
+      "uid": "434673225614"
+    }
+  },
+  "88724-1Y": {
+    "ru": {
+      "name": "Полка для полотенец 88724-1Y",
+      "uid": "367386647944"
+    },
+    "uz": {
+      "name": "Sochiq uchun javon 88724-1Y",
+      "uid": "586310158544"
+    }
+  },
+  "88724-1H": {
+    "ru": {
+      "name": "Полка для полотенец 88724-1H",
+      "uid": "622428183994"
+    },
+    "uz": {
+      "name": "Sochiq uchun javon 88724-1H",
+      "uid": "741766175264"
+    }
+  },
+  "88724-1J": {
+    "ru": {
+      "name": "Полка для полотенец 88724-1J",
+      "uid": "719013295244"
+    },
+    "uz": {
+      "name": "Sochiq uchun javon 88724-1J",
+      "uid": "113368001294"
+    }
+  },
+  "3851A": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Venice 3851A",
+      "uid": "592817550094"
+    },
+    "uz": {
+      "name": "Venice 3851A tualet qog‘ozi ushlagichi",
+      "uid": "792253854354"
+    }
+  },
+  "3851TH": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Venice 3851TH",
+      "uid": "116766943874"
+    },
+    "uz": {
+      "name": "Venice 3851TH tualet qog‘ozi ushlagichi",
+      "uid": "526283301274"
+    }
+  },
+  "3851BG": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Venice 3851BG",
+      "uid": "608465549484"
+    },
+    "uz": {
+      "name": "Venice 3851BG tualet qog‘ozi ushlagichi",
+      "uid": "703097652894"
+    }
+  },
+  "3851С": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Venice 3851С",
+      "uid": "680387618434"
+    },
+    "uz": {
+      "name": "Venice 3851C tualet qog‘ozi ushlagichi",
+      "uid": "818979556204"
+    }
+  },
+  "3860TH": {
+    "ru": {
+      "name": "Полотенца держатель Venice 3860TH",
+      "uid": "892747668914"
+    },
+    "uz": {
+      "name": "Venice 3860TH sochiq ushlagichi",
+      "uid": "265512945904"
+    }
+  },
+  "3860BG": {
+    "ru": {
+      "name": "Полотенца держатель Venice 3860BG",
+      "uid": "463418344184"
+    },
+    "uz": {
+      "name": "Venice 3860BG sochiq ushlagichi",
+      "uid": "302508101584"
+    }
+  },
+  "3860C": {
+    "ru": {
+      "name": "Полотенца держатель Venice 3860C",
+      "uid": "532160872124"
+    },
+    "uz": {
+      "name": "Venice 3860C sochiq ushlagichi",
+      "uid": "298054967334"
+    }
+  },
+  "3855A": {
+    "ru": {
+      "name": "Стакан держатель Venice 3855A",
+      "uid": "727988475164"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Venice 3855A",
+      "uid": "475611310994"
+    }
+  },
+  "3855TH": {
+    "ru": {
+      "name": "Стакан держатель Venice 3855TH",
+      "uid": "267096584904"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Venice 3855TH",
+      "uid": "431658507254"
+    }
+  },
+  "3855BG": {
+    "ru": {
+      "name": "Стакан держатель Venice 3855BG",
+      "uid": "307160634714"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Venice 3855BG",
+      "uid": "177830024084"
+    }
+  },
+  "3855C": {
+    "ru": {
+      "name": "Стакан держатель Venice 3855C",
+      "uid": "807273981364"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Venice 3855C",
+      "uid": "123207403944"
+    }
+  },
+  "3856A": {
+    "ru": {
+      "name": "Мыльница Venice 3856A",
+      "uid": "583853041814"
+    },
+    "uz": {
+      "name": "Sovun qo‘ygich Venice 3856A",
+      "uid": "703042068534"
+    }
+  },
+  "3856TH": {
+    "ru": {
+      "name": "Мыльница Venice 3856TH",
+      "uid": "230776639794"
+    },
+    "uz": {
+      "name": "Sovun qo‘ygich Venice 3856TH",
+      "uid": "613388447824"
+    }
+  },
+  "3856BG": {
+    "ru": {
+      "name": "Мыльница Venice 3856BG",
+      "uid": "515327820154"
+    },
+    "uz": {
+      "name": "Sovun qo‘ygich Venice 3856BG",
+      "uid": "726023449464"
+    }
+  },
+  "3856С": {
+    "ru": {
+      "name": "Мыльница Venice 3856С",
+      "uid": "910884313174"
+    },
+    "uz": {
+      "name": "Sovun qo‘ygich Venice 3856C",
+      "uid": "207130425764"
+    }
+  },
+  "3854A": {
+    "ru": {
+      "name": "Крючок Venice 3854A",
+      "uid": "992680627424"
+    },
+    "uz": {
+      "name": "Ilgak Venice 3854A",
+      "uid": "454136677204"
+    }
+  },
+  "3854TH": {
+    "ru": {
+      "name": "Крючок Venice 3854TH",
+      "uid": "945952970744"
+    },
+    "uz": {
+      "name": "Ilgak Venice 3854TH",
+      "uid": "589995295904"
+    }
+  },
+  "3854BG": {
+    "ru": {
+      "name": "Крючок Venice 3854BG",
+      "uid": "376654612734"
+    },
+    "uz": {
+      "name": "Ilgak Venice 3854BG",
+      "uid": "184706635944"
+    }
+  },
+  "3854С": {
+    "ru": {
+      "name": "Крючок Venice 3854С",
+      "uid": "188276557414"
+    },
+    "uz": {
+      "name": "Ilgak Venice 3854C",
+      "uid": "807514685264"
+    }
+  },
+  "101G": {
+    "ru": {
+      "name": "Мусорное ведро 101G",
+      "uid": "488930682264"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 101G",
+      "uid": "212308204014"
+    }
+  },
+  "101D": {
+    "ru": {
+      "name": "Мусорное ведро 101D",
+      "uid": "221381113234"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 101D",
+      "uid": "931503135114"
+    }
+  },
+  "101Y": {
+    "ru": {
+      "name": "Мусорное ведро 101Y",
+      "uid": "974149128594"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 101Y",
+      "uid": "474785254024"
+    }
+  },
+  "101B": {
+    "ru": {
+      "name": "Мусорное ведро 101B",
+      "uid": "351528482524"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 101B",
+      "uid": "974508831924"
+    }
+  },
+  "202G": {
+    "ru": {
+      "name": "Мусорное ведро 202G",
+      "uid": "258290853134"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 202G",
+      "uid": "232715754944"
+    }
+  },
+  "202D": {
+    "ru": {
+      "name": "Мусорное ведро 202D",
+      "uid": "853527340164"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 202D",
+      "uid": "336403895264"
+    }
+  },
+  "202Y": {
+    "ru": {
+      "name": "Мусорное ведро 202Y",
+      "uid": "776889430114"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 202Y",
+      "uid": "153574039044"
+    }
+  },
+  "202B": {
+    "ru": {
+      "name": "Мусорное ведро 202B",
+      "uid": "687204013554"
+    },
+    "uz": {
+      "name": "Chiqindi chelagi 202B",
+      "uid": "379020942584"
+    }
+  },
+  "A110": {
+    "ru": {
+      "name": "Ёршик для унитаза A110",
+      "uid": "524815510914"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A110",
+      "uid": "171046556214"
+    }
+  },
+  "A110G": {
+    "ru": {
+      "name": "Ёршик для унитаза A110G",
+      "uid": "889566059834"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A110G",
+      "uid": "942619711054"
+    }
+  },
+  "A110D": {
+    "ru": {
+      "name": "Ёршик для унитаза A110D",
+      "uid": "341407663274"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A110D",
+      "uid": "310800422404"
+    }
+  },
+  "A110Y": {
+    "ru": {
+      "name": "Ёршик для унитаза A110Y",
+      "uid": "751787126124"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A110Y",
+      "uid": "151578363324"
+    }
+  },
+  "A110B": {
+    "ru": {
+      "name": "Ёршик для унитаза A110B",
+      "uid": "593648443894"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A110B",
+      "uid": "692304294324"
+    }
+  },
+  "A039": {
+    "ru": {
+      "name": "Ёршик для унитаза A039",
+      "uid": "937423888444"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A039",
+      "uid": "456500400574"
+    }
+  },
+  "A039G": {
+    "ru": {
+      "name": "Ёршик для унитаза A039G",
+      "uid": "296028911124"
+    }
+  },
+  "A039D": {
+    "ru": {
+      "name": "Ёршик для унитаза A039D",
+      "uid": "554350084664"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A039D",
+      "uid": "402267702704"
+    }
+  },
+  "A039Y": {
+    "ru": {
+      "name": "Ёршик для унитаза A039Y",
+      "uid": "447965865574"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A039Y",
+      "uid": "134892896384"
+    }
+  },
+  "A039B": {
+    "ru": {
+      "name": "Ёршик для унитаза A039B",
+      "uid": "896807485604"
+    },
+    "uz": {
+      "name": "Unitaz cho‘tkasi A039B",
+      "uid": "393954608704"
+    }
+  },
+  "03": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 03",
+      "uid": "637956151284"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 03",
+      "uid": "912370792194"
+    }
+  },
+  "01": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 01",
+      "uid": "397305491324"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 01",
+      "uid": "835346859904"
+    }
+  },
+  "2451W": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 2451W",
+      "uid": "898354910974"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 2451W",
+      "uid": "362888129224"
+    }
+  },
+  "2660C": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 2660C Black",
+      "uid": "207944190584"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 2660C Black",
+      "uid": "991851063774"
+    }
+  },
+  "2660C-white": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 2660C White",
+      "uid": "868881477334"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 2660C White",
+      "uid": "261914746144"
+    }
+  },
+  "02": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 02",
+      "uid": "794702569284"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 02",
+      "uid": "690819855494"
+    }
+  },
+  "2408S": {
+    "ru": {
+      "name": "Мебель для ванной комнаты 2408S",
+      "uid": "545585631594"
+    },
+    "uz": {
+      "name": "Vanna xonasi uchun mebel 2408S",
+      "uid": "419954767554"
+    }
+  },
+  "3156B": {
+    "ru": {
+      "name": "Мыльница Milan 3156B",
+      "uid": "579749354244"
+    },
+    "uz": {
+      "name": "Sovun qoʻygich Milan 3156B",
+      "uid": "672412632644"
+    }
+  },
+  "3156D": {
+    "ru": {
+      "name": "Мыльница Model 3156D",
+      "uid": "400320328234"
+    },
+    "uz": {
+      "name": "Sovun qoʻygich Model 3156D",
+      "uid": "571291529364"
+    }
+  },
+  "3156G": {
+    "ru": {
+      "name": "Мыльница Milan 3156G",
+      "uid": "228100694494"
+    },
+    "uz": {
+      "name": "Sovun qoʻygich Milan 3156G",
+      "uid": "109269725624"
+    }
+  },
+  "3156Y": {
+    "ru": {
+      "name": "Мыльница Milan 3156Y",
+      "uid": "681537914944"
+    },
+    "uz": {
+      "name": "Sovun qoʻygich Milan 3156Y",
+      "uid": "439757680244"
+    }
+  },
+  "3155B": {
+    "ru": {
+      "name": "Стакан держатель Milan 3155B",
+      "uid": "412064391764"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Milan 3155B",
+      "uid": "823282543504"
+    }
+  },
+  "3155D": {
+    "ru": {
+      "name": "Стакан держатель Milan 3155D",
+      "uid": "772213405824"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Milan 3155D",
+      "uid": "121353540034"
+    }
+  },
+  "3155A": {
+    "ru": {
+      "name": "Стакан держатель Milan 3155A",
+      "uid": "824877063664"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Milan 3155A",
+      "uid": "621138763054"
+    }
+  },
+  "3155Y": {
+    "ru": {
+      "name": "Стакан держатель Milan 3155Y",
+      "uid": "733526386844"
+    },
+    "uz": {
+      "name": "Stakan ushlagichi Milan 3155Y",
+      "uid": "326795072734"
+    }
+  },
+  "3160B": {
+    "ru": {
+      "name": "Полотенца держатель Milan 3160B",
+      "uid": "254956455194"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Milan 3160B",
+      "uid": "859745369574"
+    }
+  },
+  "3160D": {
+    "ru": {
+      "name": "Полотенца держатель Milan 3160D",
+      "uid": "942590751464"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Milan 3160D",
+      "uid": "486749790734"
+    }
+  },
+  "3160G": {
+    "ru": {
+      "name": "Полотенца держатель Milan 3160G",
+      "uid": "332658998004"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Milan 3160G",
+      "uid": "186071413654"
+    }
+  },
+  "3160Y": {
+    "ru": {
+      "name": "Полотенца держатель Milan 3160Y",
+      "uid": "186535995654"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Milan 3160Y",
+      "uid": "205888802964"
+    }
+  },
+  "3151B": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Milan 3151B",
+      "uid": "722917780614"
+    },
+    "uz": {
+      "name": "Tualet qog‘ozi ushlagichi Milan 3151B",
+      "uid": "915128987644"
+    }
+  },
+  "3151D": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Milan 3151D",
+      "uid": "226381332614"
+    },
+    "uz": {
+      "name": "Tualet qog‘ozi ushlagichi Milan 3151D",
+      "uid": "664138589674"
+    }
+  },
+  "3151G": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Milan 3151G",
+      "uid": "909132028484"
+    },
+    "uz": {
+      "name": "Tualet qog‘ozi ushlagichi Milan 3151G",
+      "uid": "212172008994"
+    }
+  },
+  "3151Y": {
+    "ru": {
+      "name": "Держатель для туалетной бумаги Milan 3151Y",
+      "uid": "287807503934"
+    },
+    "uz": {
+      "name": "Tualet qog‘ozi ushlagichi Milan 3151Y",
+      "uid": "517951309744"
+    }
+  },
+  "3154B": {
+    "ru": {
+      "name": "Крючок Milan 3154B",
+      "uid": "839623127724"
+    },
+    "uz": {
+      "name": "Ilgak Milan 3154B",
+      "uid": "741995413354"
+    }
+  },
+  "3154G": {
+    "ru": {
+      "name": "Крючок Milan 3154G",
+      "uid": "718070616274"
+    },
+    "uz": {
+      "name": "Ilgak Milan 3154G",
+      "uid": "211690217994"
+    }
+  },
+  "3154Y": {
+    "ru": {
+      "name": "Крючок Milan 3154Y",
+      "uid": "260871904704"
+    },
+    "uz": {
+      "name": "Ilgak Milan 3154Y",
+      "uid": "619053451774"
+    }
+  },
+  "чёрный": {
+    "ru": {
+      "name": "Полотенцадержатель двойной Milan 3148В",
+      "uid": "842174781184"
+    },
+    "uz": {
+      "name": "Ikki qavatli sochiq ushlagichi Milan 3148B",
+      "uid": "110638116184"
+    }
+  },
+  "3153D": {
+    "ru": {
+      "name": "Полотенцадержатель двойной Milan 3148D",
+      "uid": "360336229064"
+    },
+    "uz": {
+      "name": "Ikki qavatli sochiq ushlagichi Milan 3148D",
+      "uid": "915955215804"
+    }
+  },
+  "3153G": {
+    "ru": {
+      "name": "Полотенцадержатель двойной Milan 3153G",
+      "uid": "148408586954"
+    },
+    "uz": {
+      "name": "Ikki qavatli sochiq ushlagichi Milan 3153G",
+      "uid": "596998890124"
+    }
+  },
+  "3148Y": {
+    "ru": {
+      "name": "Полотенцадержатель двойной Milan 3148Y",
+      "uid": "184834068044"
+    },
+    "uz": {
+      "name": "Ikki qavatli sochiq ushlagichi Milan 3148Y",
+      "uid": "366572177784"
+    }
+  },
+  "8615X-2": {
+    "ru": {
+      "name": "Угловая полька 8615X-2",
+      "uid": "491857670564"
+    },
+    "uz": {
+      "name": "Burchak tokchasi 8615X-2",
+      "uid": "600201537424"
+    }
+  },
+  "8615B-2": {
+    "uz": {
+      "name": "Burchak tokchasi 8615B-2",
+      "uid": "111312206534"
+    },
+    "ru": {
+      "name": "Угловая полька 8615B-2",
+      "uid": "249531263834"
+    }
+  },
+  "8615J": {
+    "ru": {
+      "name": "Угловая полька 8615J",
+      "uid": "226762332294"
+    },
+    "uz": {
+      "name": "Burchak tokchasi 8615J",
+      "uid": "581088993424"
+    }
+  },
+  "8615D-2": {
+    "ru": {
+      "name": "Угловая полька 8615D-2",
+      "uid": "881282236534"
+    },
+    "uz": {
+      "name": "Burchak tokchasi 8615D-2",
+      "uid": "584978433774"
+    }
+  },
+  "8615Y": {
+    "ru": {
+      "name": "Угловая полька 8615Y",
+      "uid": "419901390074"
+    },
+    "uz": {
+      "name": "Burchak tokchasi 8615Y",
+      "uid": "194001739634"
+    }
+  },
+  "MSS11": {
+    "ru": {
+      "name": "Отсекающий кран MSS11",
+      "uid": "795056449174"
+    },
+    "uz": {
+      "name": "To‘xtatish krani MSS11",
+      "uid": "308130518674"
+    }
+  },
+  "MSS11-TH": {
+    "ru": {
+      "name": "Отсекающий кран MSS11-TH",
+      "uid": "200181206784"
+    },
+    "uz": {
+      "name": "To‘xtatish krani MSS11-TH",
+      "uid": "409650061064"
+    }
+  },
+  "MSS11-A": {
+    "ru": {
+      "name": "Отсекающий кран MSS11-A",
+      "uid": "848566348624"
+    },
+    "uz": {
+      "name": "To‘xtatish krani MSS11-A",
+      "uid": "574152886254"
+    }
+  },
+  "MSS11-BG": {
+    "ru": {
+      "name": "Отсекающий кран MSS11-BG",
+      "uid": "782253971964"
+    },
+    "uz": {
+      "name": "To‘xtatish krani MSS11-BG",
+      "uid": "772679946944"
+    }
+  },
+  "3154D": {
+    "ru": {
+      "name": "Крючок Milan 3154D",
+      "uid": "716499751694"
+    },
+    "uz": {
+      "name": "Ilgak Milan 3154D",
+      "uid": "301231489154"
+    }
+  },
+  "MSS11-MB": {
+    "ru": {
+      "name": "Отсекающий кран MSS11-MB",
+      "uid": "490230046854"
+    },
+    "uz": {
+      "name": "To‘xtatish krani MSS11-MB",
+      "uid": "681605855634"
+    }
+  },
+  "608 Chrome": {
+    "ru": {
+      "name": "Кнопка для инсталляции 608 Chrome",
+      "uid": "305179827564"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 608 Chrome",
+      "uid": "305608972474"
+    }
+  },
+  "608 Black": {
+    "ru": {
+      "name": "Кнопка для инсталляции 608 Blackㅤ",
+      "uid": "706013358574"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 608 Black",
+      "uid": "969405549064"
+    }
+  },
+  "608 Gold": {
+    "ru": {
+      "name": "Кнопка для инсталляции 608 Goldㅤㅤ",
+      "uid": "930414162254"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 608 Gold",
+      "uid": "395223965184"
+    }
+  },
+  "608 Grey": {
+    "ru": {
+      "name": "Кнопка для инсталляции 608 Greyㅤㅤ",
+      "uid": "678724353544"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 608 Grey",
+      "uid": "384490396794"
+    }
+  },
+  "608 Matt Gold": {
+    "ru": {
+      "name": "Кнопка для инсталляции 608 Matt Gold",
+      "uid": "801037234384"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 608 Matt Gold",
+      "uid": "631406344794"
+    }
+  },
+  "603 Chrome": {
+    "uz": {
+      "name": "Installyatsiya uchun tugma 603 Chrome",
+      "uid": "979193585054"
+    },
+    "ru": {
+      "name": "Кнопка для инсталляции 603 Chrome",
+      "uid": "793862800504"
+    }
+  },
+  "603 Black": {
+    "ru": {
+      "name": "Кнопка для инсталляции 603 Black",
+      "uid": "336178858674"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 603 Black",
+      "uid": "223805993614"
+    }
+  },
+  "603 Gold": {
+    "ru": {
+      "name": "Кнопка для инсталляции 603 Gold",
+      "uid": "936233819534"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 603 Gold",
+      "uid": "813523974304"
+    }
+  },
+  "603 Grey": {
+    "ru": {
+      "name": "Кнопка для инсталляции 603 Grey",
+      "uid": "143953406314"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 603 Grey",
+      "uid": "288120981534"
+    }
+  },
+  "603 Matt Gold": {
+    "ru": {
+      "name": "Кнопка для инсталляции 603 Matt Gold",
+      "uid": "636518338544"
+    },
+    "uz": {
+      "name": "Installyatsiya uchun tugma 603 Matt Gold",
+      "uid": "945117627214"
+    }
+  },
+  "3860A": {
+    "ru": {
+      "name": "Полотенца держатель Venice 3860A",
+      "uid": "627994912364"
+    },
+    "uz": {
+      "name": "Sochiq ushlagichi Venice 3860A",
+      "uid": "903791887474"
+    }
+  }
+}
